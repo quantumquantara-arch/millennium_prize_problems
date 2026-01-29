@@ -1,9 +1,3 @@
-Here is the full conversion of the text into a clean, GitHub-compatible Markdown format. I have ensured all mathematical notations use proper LaTeX delimiters ( or 
-
-) and that the document is organized for maximum readability on GitHub.
-
----
-
 # Theorem: Existence and Mass Gap for 4D Yang–Mills
 
 Let  be a compact, connected, simple Lie group. There exists a nontrivial quantum Yang–Mills theory on  (Euclidean) satisfying the **Osterwalder–Schrader (OS) axioms**, whose reconstructed Minkowski theory has a strictly **positive mass gap**: there is  such that the spectrum of the Hamiltonian  obeys:
